@@ -1,4 +1,4 @@
-## MediGuard AI — 180‑second YouTube Demo Script (judge-pleasing)
+## MediGuard AI — 180‑second YouTube Demo Script
 
 **Style note:** Keep the pacing fast, confident, and visual. Show the app on-screen almost the whole time. Use simple language. Mention “Bangladesh-first” and “global-ready.” Avoid claiming medical diagnosis.
 
@@ -70,11 +70,3 @@
 “We’ve moved from idea to working system. This is MediGuard AI—personalized medication safety, built to scale.”
 
 ---
-
-## Quick production tips (to maximize judge perception)
-- Keep the app recording **full-screen**; avoid long talking head.
-- Show **one “Green” case** quickly if time allows (2 seconds): “For another profile, it returns Green.”
-- Keep the stepper snappy (total ~6–8 seconds).  
-- Add a small footer in the app: “Not medical advice. For education only.”
-
-If you tell me what medicines/conditions your demo currently triggers (e.g., “NSAID + CKD”), I can tailor the demo lines and “reasons” wording to exactly match your current UI.
